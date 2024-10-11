@@ -3,7 +3,3 @@ B
 
 main
 
-reset
-
-revert
-
